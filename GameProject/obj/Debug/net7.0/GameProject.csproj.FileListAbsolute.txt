@@ -1,0 +1,15 @@
+/Users/eyyuperdogan/Projects/GameProject/GameProject/bin/Debug/net7.0/GameProject
+/Users/eyyuperdogan/Projects/GameProject/GameProject/bin/Debug/net7.0/GameProject.deps.json
+/Users/eyyuperdogan/Projects/GameProject/GameProject/bin/Debug/net7.0/GameProject.runtimeconfig.json
+/Users/eyyuperdogan/Projects/GameProject/GameProject/bin/Debug/net7.0/GameProject.dll
+/Users/eyyuperdogan/Projects/GameProject/GameProject/bin/Debug/net7.0/GameProject.pdb
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.dll
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/refint/GameProject.dll
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.pdb
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/GameProject.genruntimeconfig.cache
+/Users/eyyuperdogan/Projects/GameProject/GameProject/obj/Debug/net7.0/ref/GameProject.dll
